@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     x="0px"
+     y="0px"
+     width="312px"
+     height="228px"
+     viewBox="0 0 312 228"
+     >
+<title></title>
+<desc>Creator: FreeHEP Graphics2D Driver Producer: geogebra.export.SVGExtensions Revision: 12753  Source:  Date: martes 15 de enero de 2013 22H44' CET</desc>
+<g stroke-linejoin="miter" stroke-dashoffset="0" stroke-dasharray="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="square">
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g fill-opacity="1" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0 0 L 850 0 L 850 621 L 0 621 L 0 0 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g stroke-linejoin="round" stroke-width="2.5" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 94.24331151655441 626 L 94.24331151655441 -5"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g stroke-linejoin="round" stroke-width="2.5" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M -5 524.1674115774312 L 855 524.1674115774312"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 94.24331151655441 317.75902556008833 L 158 183"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 158 183 L 230 368"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 363.8065022108459 257.68494306250346 L 230 368"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 363.8065022108459 257.68494306250346 L 464 374"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 464 374 L 551 157"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.368049503233966, 0, 0, 0.368049503233966, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 551 157 L 601 242"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+</g><!-- layer0 -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->
